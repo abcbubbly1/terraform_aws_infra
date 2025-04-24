@@ -1,0 +1,6 @@
+vpc_cidr="10.2.0.0/16"
+subnet_cidr="10.2.1.0/24"
+ec2_key_pair= "sydneybreeze-key-pair"
+ec2_instance_type= "t2.micro"
+availability_zone = "us-east-1a"
+ec2_ami_id = "ami-0e449927258d45bc4"
